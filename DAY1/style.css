@@ -16,9 +16,13 @@ body {
   height: 100px;
   border-radius: 50%;
 }
+.Biography{
+    display: flex;
+    justify-content: space-evenly;
+}
 .Introduction{
 
-    float: left;
+
     width: 25%;
     height: 200px;
     margin: 30px;
@@ -29,7 +33,7 @@ body {
 
 }
 .FunFact{
-    float:left;;
+   
     width: 25%;
     height: 200px;
     margin: 30px;
@@ -42,7 +46,7 @@ body {
     margin-top: 70px;
 }
 .Resume{
-    float: right;;
+ 
     width: 25%;
     height: 200px;
     margin: 30px;
